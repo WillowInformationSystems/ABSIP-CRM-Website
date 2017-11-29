@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ABSIP_CRM_Website/.vs/ABSIP_CRM_Website/v15/Server/sqlite3
