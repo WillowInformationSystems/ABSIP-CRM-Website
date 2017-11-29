@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_NewBackgroundProfile>True</_NewBackgroundProfile>
+    <_PublishTargetUrl>C:\Compiled\ABSIP</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ABSIP.Master">
+      <publishTime>08/02/2017 21:10:08</publishTime>
+    </File>
+    <File Include="bin/ABSIP.dll">
+      <publishTime>08/02/2017 21:19:00</publishTime>
+    </File>
+    <File Include="bin/ABSIP.pdb">
+      <publishTime>08/02/2017 21:19:00</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/11/2017 14:28:20</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 04:10:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 15:50:24</publishTime>
+    </File>
+    <File Include="ClassDiagram1.cd">
+      <publishTime>07/26/2017 21:22:07</publishTime>
+    </File>
+    <File Include="css/basictable.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/circles.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/component.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/export.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/flipclock.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/font-awesome.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/jQuery-plugin-progressbar1.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/monthly.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/style_grid.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="css/table-style.css">
+      <publishTime>07/29/2017 16:27:57</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.eot">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.svg">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.ttf">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="fonts/fontawesome-webfont.woff2">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="fonts/FontAwesome.otf">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>07/29/2017 16:27:58</publishTime>
+    </File>
+    <File Include="images/3dsnake.gif">
+      <publishTime>07/27/2017 22:57:23</publishTime>
+    </File>
+    <File Include="images/spinner3-bluey.gif">
+      <publishTime>07/27/2017 22:57:46</publishTime>
+    </File>
+    <File Include="js/amcharts.js">
+      <publishTime>07/29/2017 16:27:59</publishTime>
+    </File>
+    <File Include="js/bars.js">
+      <publishTime>07/29/2017 16:27:59</publishTime>
+    </File>
+    <File Include="js/bootstrap-3.1.1.min.js">
+      <publishTime>07/29/2017 16:27:59</publishTime>
+    </File>
+    <File Include="js/Chart.min.js">
+      <publishTime>07/29/2017 16:28:00</publishTime>
+    </File>
+    <File Include="js/circles.js">
+      <publishTime>07/29/2017 16:28:00</publishTime>
+    </File>
+    <File Include="js/classie.js">
+      <publishTime>07/29/2017 16:28:00</publishTime>
+    </File>
+    <File Include="js/contact_me.js">
+      <publishTime>07/29/2017 16:28:00</publishTime>
+    </File>
+    <File Include="js/export.js">
+      <publishTime>07/29/2017 16:28:00</publishTime>
+    </File>
+    <File Include="js/flipclock.js">
+      <publishTime>07/29/2017 16:28:00</publishTime>
+    </File>
+    <File Include="js/gauge.js">
+      <publishTime>07/29/2017 16:28:00</publishTime>
+    </File>
+    <File Include="js/gnmenu.js">
+      <publishTime>07/29/2017 16:28:00</publishTime>
+    </File>
+    <File Include="js/jqBootstrapValidation.js">
+      <publishTime>07/29/2017 16:28:01</publishTime>
+    </File>
+    <File Include="js/jquery-2.1.4.min.js">
+      <publishTime>07/29/2017 16:28:01</publishTime>
+    </File>
+    <File Include="js/jQuery-plugin-progressbar.js">
+      <publishTime>07/29/2017 16:28:01</publishTime>
+    </File>
+    <File Include="js/jquery.basictable.min.js">
+      <publishTime>07/29/2017 16:28:01</publishTime>
+    </File>
+    <File Include="js/jquery.nicescroll.js">
+      <publishTime>07/29/2017 16:28:01</publishTime>
+    </File>
+    <File Include="js/js">
+      <publishTime>07/29/2017 16:28:01</publishTime>
+    </File>
+    <File Include="js/light.js">
+      <publishTime>07/29/2017 16:28:01</publishTime>
+    </File>
+    <File Include="js/modernizr.custom.js">
+      <publishTime>07/29/2017 16:28:01</publishTime>
+    </File>
+    <File Include="js/monthly.js">
+      <publishTime>07/29/2017 16:28:02</publishTime>
+    </File>
+    <File Include="js/pie.js">
+      <publishTime>07/29/2017 16:28:02</publishTime>
+    </File>
+    <File Include="js/prettymaps.js">
+      <publishTime>07/29/2017 16:28:02</publishTime>
+    </File>
+    <File Include="js/radar.js">
+      <publishTime>07/29/2017 16:28:02</publishTime>
+    </File>
+    <File Include="js/screenfull.js">
+      <publishTime>07/29/2017 16:28:02</publishTime>
+    </File>
+    <File Include="js/scripts.js">
+      <publishTime>07/29/2017 16:28:02</publishTime>
+    </File>
+    <File Include="js/serial.js">
+      <publishTime>07/29/2017 16:28:02</publishTime>
+    </File>
+    <File Include="js/skycons.js">
+      <publishTime>07/29/2017 16:28:02</publishTime>
+    </File>
+    <File Include="js/valida.2.1.6.min.js">
+      <publishTime>07/29/2017 16:28:02</publishTime>
+    </File>
+    <File Include="js/validator.min.js">
+      <publishTime>07/29/2017 16:28:03</publishTime>
+    </File>
+    <File Include="js/xy.js">
+      <publishTime>07/29/2017 16:28:03</publishTime>
+    </File>
+    <File Include="Members/RegisterMember.aspx">
+      <publishTime>08/02/2017 21:07:16</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/26/2017 21:27:24</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/02/2017 21:19:01</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
